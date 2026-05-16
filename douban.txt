@@ -1,6 +1,6 @@
 // ignore
 
-//@name:[荐] 豆瓣
+//@name:🇨🇳豆瓣
 //@webSite:https://movie.douban.com
 //@version:4
 //@codeID:4r9lCCTjjoqI5sGDkzho2sNKSL2BQXpc
